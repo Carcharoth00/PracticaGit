@@ -1,1 +1,1 @@
-que tal mundo
+System.out.println("Hola mundo");
